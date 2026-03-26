@@ -1,0 +1,19 @@
+{
+  "bass_1": ["bass_1/BOS_ESG_Bass_Synth_Spirit_2.wav"],
+  "bass_2": ["bass_2/BOS_ESG_Bass_Synth_Spirit.wav"],
+  "bass_3": ["bass_3/DS_VAH_bass_sub_beach.wav"],
+  "bass_4": ["bass_4/DS_VBTH_bass_synth_beer.wav"],
+  "breaks_1": ["breaks_1/007_d__Drum_Beat_170bpm_-_DNBDRUMS_Zenhiser.wav"],
+  "breaks_3": ["breaks_3/TS_VDNB_170_drum_two_step.wav"],
+  "chiptune_1": ["chiptune_1/chiptune_001.wav"],
+  "crash_1": ["crash_1/031_FX_Impact_-_SEROTONINTRANCE_Zenhiser.wav"],
+  "crash_2": ["crash_2/PLX_ATE_cymbal_crash_clean.wav"],
+  "epiano_1": ["epiano_1/epiano_001.wav"],
+  "epiano_2": ["epiano_2/epiano_002.wav"],
+  "pluck_1": ["pluck_1/DS_MDH2_synth_pluck_rhythm.wav"],
+  "pluck_2": ["pluck_2/DS_VAH_pluck_moon.wav"],
+  "pluck_3": ["pluck_3/DS_VPDH3_synth_pluck_tedd.wav"],
+  "pluck_4": ["pluck_4/DS_VTH2_synth_pluck_city_2.wav"],
+  "rise_1": ["rise_1/05_Audiotent_-_UNF2_-_Noise_Rise.wav"],
+  "noise_crush": ["noise_crush/noise_crush.wav"]
+}
